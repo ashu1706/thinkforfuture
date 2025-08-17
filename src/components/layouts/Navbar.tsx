@@ -14,7 +14,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-6 flex items-center justify-between h-16">
         {/* Logo */}
         <Link href="/" className="text-2xl font-bold tracking-wide">
-          ThinkForFuture
+          thinkforfuture
         </Link>
 
         {/* Desktop Menu */}
